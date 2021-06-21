@@ -6,10 +6,6 @@ function table2() {
 
 }
 
-onload = function home() {
-    table1();
-    table2();
-}
 
 function search() {
     //Send Request to sever

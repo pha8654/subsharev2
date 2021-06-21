@@ -1,30 +1,26 @@
-function createShare() {
+// function getLinkDownload() {
 
-}
+// }
 
-function getLinkDownload() {
+// function getLinkProfile() {
 
-}
+// }
 
-function getLinkProfile() {
+// function getLinkShare() {
 
-}
+// }
 
-function getLinkShare() {
+// function getLinkRequest() {
 
-}
+// }
 
-function getLinkRequest() {
+// function addSub() {
 
-}
+// }
 
-function addSub() {
+// function sendRate() {
 
-}
-
-function sendRate() {
-
-}
+// }
 
 function deleteShare() {
 
